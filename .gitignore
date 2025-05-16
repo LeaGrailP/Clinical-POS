@@ -68,7 +68,7 @@ typings/
 .next
 
 # nuxt.js build output
-.nuxt
+# .nuxt
 
 # vuepress build output
 .vuepress/dist
@@ -89,4 +89,4 @@ typings/
 .vite/
 
 # Electron-Forge
-out/
+# out/
